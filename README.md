@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yahya khalili</h1>
-<h3 align="center">👋 Salut, je suis yahya khalili 💻 Full Stack Developer |🚀 Passionné par la création des sites web 💡 Mon objectif est de concevoir des expériences web exceptionnelles, alliant esthétique et fonctionnalité.</h3>
+<h3 align="center">A Full Stack developer .</h3>
 <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yahya-khalili&label=Profile%20views&color=0e75b6&style=flat" alt="yahya-khalili" /> </p>
